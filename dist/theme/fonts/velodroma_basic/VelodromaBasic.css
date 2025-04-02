@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'VelodromaBasic';
+    /* src: url('./VelodromaBasic-Regular.otf'); */
+    src: url('./VelodromaBasic-Regular.otf') format('opentype'),
+         url('./VelodromaBasic-SuperWide.otf') format('opentype'),
+         url('./VelodromaBasic-Wide.otf') format('opentype');
+
+    font-weight: Regular;
+    font-style: Wide;
+    font-style: SuperWide;
+}
